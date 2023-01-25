@@ -1,16 +1,14 @@
 # air_duka_interview
 
-A new Flutter project.
+Air Duka Interview Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is as a sample required for an interview with Airduka.
 
-A few resources to get you started if this is your first Flutter project:
+It consist of simple functionality a listed
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Read from an Api and display the information on the app.
+2. Implement a listview
+3. Implement a gridview
+4. State management - which was implemented using Provider
